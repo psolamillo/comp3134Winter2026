@@ -1,0 +1,285 @@
+=== WIKIPEDIA ===
+
+wikipedia.org
+Updated 3 days ago
+Domain Information
+Domain:
+wikipedia.org
+Registered On:
+2001-01-13
+Expires On:
+2027-01-13
+Updated On:
+2025-12-17
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+Name Servers:
+ns0.wikimedia.org
+ns1.wikimedia.org
+ns2.wikimedia.org
+Registrar Information
+Registrar:
+MarkMonitor Inc.
+IANA ID:
+292
+Abuse Email:
+abusecomplaints@markmonitor.com
+Abuse Phone:
++1.2083895740
+
+
+
+=== EBAY ===
+
+Domain Information
+Domain:
+ebay.ca
+Registered On:
+2000-10-28
+Expires On:
+2026-10-15
+Updated On:
+2025-09-13
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+Name Servers:
+dns1.p06.nsone.net
+dns2.p06.nsone.net
+dns3.p06.nsone.net
+dns4.p06.nsone.net
+ns01.ebaydns.com
+ns02.ebaydns.com
+ns03.ebaydns.com
+Registrar Information
+Registrar:
+MarkMonitor International Canada Ltd.
+IANA ID:
+not applicable
+URL:
+Markmonitor.com
+Abuse Email:
+abusecomplaints@markmonitor.com
+Abuse Phone:
++1.2083895740
+Registrant Contact
+Name:
+eBay Canada Ltd.
+Street:
+2 St. Clair Avenue East Suite 701
+City:
+Toronto
+State:
+ON
+Postal Code:
+M4T2T5
+Country:
+CA
+Phone:
++1.4169611970
+Email:
+email@ebay.com
+Administrative Contact
+Name:
+Olga Yaguez
+Street:
+2 St. Clair Avenue East Suite 701
+City:
+Toronto
+State:
+ON
+Postal Code:
+M4T2T5
+Country:
+CA
+Phone:
++1.4169611970
+Fax:
++1.4169470866
+Email:
+email@ebay.com
+Technical Contact
+Name:
+Matt Serlin
+Organization:
+MarkMonitor, Inc.
+Street:
+Domain Provisioning
+10400 Overland Rd. PMB 155
+City:
+Boise
+State:
+ID
+Postal Code:
+83709
+Country:
+US
+Phone:
++1.2083895740
+Fax:
++1.2083895771
+Email:
+email@markmonitor.com
+
+=== GITHUB ===
+
+Domain Information
+Domain:
+github.com
+Registered On:
+2007-10-09
+Expires On:
+2026-10-09
+Updated On:
+2024-09-07
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+Name Servers:
+dns1.p08.nsone.net
+dns2.p08.nsone.net
+dns3.p08.nsone.net
+dns4.p08.nsone.net
+ns-1283.awsdns-32.org
+ns-1707.awsdns-21.co.uk
+ns-421.awsdns-52.com
+ns-520.awsdns-01.net
+Registrar Information
+Registrar:
+MarkMonitor Inc.
+IANA ID:
+292
+Email:
+https://www.markmonitor.com/contact-us/
+Abuse Email:
+abusecomplaints@markmonitor.com
+Abuse Phone:
++1.2086851750
+Registrant Contact
+Organization:
+GitHub, Inc.
+Country:
+US
+Email:
+https://domains.markmonitor.com/whois/contact/github.com
+Technical Contact
+Email:
+https://domains.markmonitor.com/whois/contact/github.com
+
+=== GEEKSFORGEEKS ===
+
+Domain Information
+Domain:
+geeksforgeeks.com
+Registered On:
+2009-06-06
+Expires On:
+2029-06-06
+Updated On:
+2025-03-06
+Status:
+client delete prohibited
+client renew prohibited
+client transfer prohibited
+client update prohibited
+Name Servers:
+ns3.afternic.com
+ns4.afternic.com
+Registrar Information
+Registrar:
+GoDaddy.com, LLC
+IANA ID:
+146
+Email:
+abuse@godaddy.com
+Abuse Email:
+abuse@godaddy.com
+Abuse Phone:
+480-624-2505
+Registrant Contact
+Name:
+Registration Private
+Organization:
+Domains By Proxy, LLC
+Street:
+DomainsByProxy.com 100 S. Mill Ave, Suite 1600
+City:
+Tempe
+State:
+Arizona
+Postal Code:
+85281
+Country:
+US
+Phone:
++1.4806242599
+Email:
+https://www.godaddy.com/whois/results.aspx?domain=geeksforgeeks.com&action=contactDomainOwner
+Technical Contact
+Name:
+Registration Private
+Organization:
+Domains By Proxy, LLC
+Street:
+DomainsByProxy.com 100 S. Mill Ave, Suite 1600
+City:
+Tempe
+State:
+Arizona
+Postal Code:
+85281
+Country:
+US
+Phone:
++1.4806242599
+Email:
+https://www.godaddy.com/whois/results.aspx?domain=geeksforgeeks.com&action=contactDomainOwner
+
+=== GOOGLE ===
+
+Domain Information
+Domain:
+google.com
+Registered On:
+1997-09-15
+Expires On:
+2028-09-14
+Updated On:
+2019-09-09
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+server delete prohibited
+server transfer prohibited
+server update prohibited
+Name Servers:
+ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+Registrar Information
+Registrar:
+MarkMonitor Inc.
+IANA ID:
+292
+Email:
+https://www.markmonitor.com/contact-us/
+Abuse Email:
+abusecomplaints@markmonitor.com
+Abuse Phone:
++1.2086851750
+Registrant Contact
+Organization:
+Google LLC
+Country:
+US
+Email:
+https://domains.markmonitor.com/whois/contact/google.com
+Technical Contact
+Email:
+https://domains.markmonitor.com/whois/contact/google.com
