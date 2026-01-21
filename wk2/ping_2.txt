@@ -1,0 +1,13 @@
+ping 137.184.171.44
+
+Pinging 137.184.171.44 with 32 bytes of data:
+Reply from 137.184.171.44: bytes=32 time=12ms TTL=51
+Reply from 137.184.171.44: bytes=32 time=7ms TTL=51
+Reply from 137.184.171.44: bytes=32 time=7ms TTL=51
+Reply from 137.184.171.44: bytes=32 time=8ms TTL=51
+
+Ping statistics for 137.184.171.44:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 12ms, Average = 8ms
+
