@@ -1,0 +1,23 @@
+tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+17:25:34.871480 IP comp3134-Winter2026.ssh > bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725: Flags [P.], seq 2228607389:2228607497, ack 2150399484, win 478, length 108
+17:25:34.871655 IP comp3134-Winter2026.ssh > bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725: Flags [P.], seq 108:144, ack 1, win 478, length 36
+17:25:34.871709 IP comp3134-Winter2026.ssh > bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725: Flags [P.], seq 144:196, ack 1, win 478, length 52
+17:25:34.871750 IP comp3134-Winter2026.ssh > bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725: Flags [P.], seq 196:264, ack 1, win 478, length 68
+17:25:34.871787 IP comp3134-Winter2026.ssh > bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725: Flags [P.], seq 264:332, ack 1, win 478, length 68
+17:25:34.871819 IP comp3134-Winter2026.ssh > bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725: Flags [P.], seq 332:368, ack 1, win 478, length 36
+17:25:34.876023 IP bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725 > comp3134-Winter2026.ssh: Flags [.], ack 368, win 251, length 0
+17:25:34.876024 IP bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725 > comp3134-Winter2026.ssh: Flags [P.], seq 1:37, ack 368, win 251, length 36
+17:25:34.876280 IP comp3134-Winter2026.ssh > bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725: Flags [P.], seq 368:404, ack 37, win 478, length 36
+17:25:34.902748 IP bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725 > comp3134-Winter2026.ssh: Flags [P.], seq 37:73, ack 404, win 251, length 36
+17:25:34.902952 IP comp3134-Winter2026.ssh > bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725: Flags [P.], seq 404:440, ack 73, win 478, length 36
+17:25:34.933373 IP bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725 > comp3134-Winter2026.ssh: Flags [P.], seq 73:109, ack 440, win 251, length 36
+17:25:34.933598 IP comp3134-Winter2026.ssh > bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725: Flags [P.], seq 440:476, ack 109, win 478, length 36
+17:25:34.965609 IP bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725 > comp3134-Winter2026.ssh: Flags [P.], seq 109:145, ack 476, win 250, length 36
+17:25:34.965852 IP comp3134-Winter2026.ssh > bras-base-toroon0728w-grc-37-174-88-21-119.dsl.bell.ca.59725: Flags [P.], seq 476:512, ack 145, win 478, length 36
+^C17:25:34.968986 IP comp3134-Winter2026.55839 > 67.207.67.2.domain: 53942+ [1au] PTR? 119.21.88.174.in-addr.arpa. (55)
+
+16 packets captured
+269 packets received by filter
+189 packets dropped by kernel
