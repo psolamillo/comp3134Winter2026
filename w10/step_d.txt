@@ -1,0 +1,2 @@
+the browser shows  two warnings no such file or directory in /var/www/html/wk10/directory_traversal_part1.php
+The sensitive information given by the page is the absolute path directory which reveals information like server os, directory structure etc.

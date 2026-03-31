@@ -1,0 +1,4 @@
+strpos() to return position of . in the stringg or false to block traversal sequences
+basename() to take path string and remove directory components to hide directory information
+file_exists() to check if file exists to prevent php warning errors that can show the server paths
+

@@ -1,0 +1,1 @@
+Mitigated by using php comments because they are processed on the server side and never sent to the browser.

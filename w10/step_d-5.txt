@@ -1,0 +1,2 @@
+1.) i see the contents of var/www/html and the web root content
+2.) means that url encode bypass works

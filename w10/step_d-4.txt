@@ -1,0 +1,2 @@
+1.)I see the array on the page /var/www and that /var/www/ only contains html folder
+2.) this shows a succcesful path transversal
