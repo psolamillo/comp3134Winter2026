@@ -1,0 +1,3 @@
+strip_tags vs HTML Entities 
+strip tags removes all html and php tags from string so only plain text is stored/displayed
+htmlspecialchars converts the special html characters into literal text/html entity equivalent so the tag is preserved and still visible

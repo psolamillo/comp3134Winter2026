@@ -1,0 +1,5 @@
+1.) I typed in computer the url became /browse/computer which is what i entered into the 
+search bar and got definitions for the word
+2.)I typed random chars after /browse/ and i get no results for the random char
+3.)after typing the script into the form I get You have been blocked with the reasoning for the blocked
+4.)similar situation to the number 3 i get blocked with the warning
