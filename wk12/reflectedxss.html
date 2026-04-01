@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ReflectedXss</title>
+    <meta name="description" content="description"/>
+    <meta name="author" content="author" />
+    <meta name="keywords" content="keywords" />
+    <link rel="stylesheet" href="./stylesheet.css" type="text/css" />
+    <style type="text/css">.body { width: auto; }</style>
+  </head>
+  <body>
+    <h1>Reflected XSS Demo</h1>
+    <form>
+      <input name="val" type="text" placeholder="Enter input..." />
+      <br/>
+      <input type="submit" value="Go!" />
+    </form>
+    <div id="output"></div>
+  </body>
+
+<script>
+document.forms[0].onsubmit = function(e) {
+  e.preventDefault();
+  var userInput = document.forms[0].elements['val'].value;
+  document.getElementById('output').innerHTML = userInput;
+};
+</script>
+</html>
+
+
+

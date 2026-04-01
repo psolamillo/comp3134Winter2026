@@ -1,0 +1,8 @@
+CSRF_tests
+
+on the legitimate form a random session token is generated and stored in Session['confirmation']
+The toekn is embedded in form and sent with post and compared in csfr_action and when they match
+the request is accepted
+
+On the forged form there is no session confirmation being set and the post [confirmation]  is missing so the
+checks fail and the request is rejected. The forged form does not replicate the randomly generated  session token

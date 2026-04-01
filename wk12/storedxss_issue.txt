@@ -1,0 +1,6 @@
+Stored XSS Issues
+
+contents of storedxss.txt are echoed directly to the browser without sanitization or escaping and any HTML or JavaScript stored in that file will be 
+executed as code not text. the code we put in storedxss.txt was executed as redicted to another page. no interaction was required.
+
+
